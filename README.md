@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, C#, Html, Css.**
 
-- 📫 How to reach me **hamza.wasym99@gmail.com**
+- 📫 Reach me through E-mail at: **hamza.wasym99@gmail.com**
 
 - ⚡ Fun fact **I am really good at Cricket and Video games**
 
