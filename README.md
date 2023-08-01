@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninja-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="ninja-hamza" /> </p>
 
-<p align="left"> <a href="https://twitter.com/HamzaWaseemCS" target="blank"><img src="https://img.shields.io/twitter/follow/HamzaWaseemCS?logo=twitter&style=for-the-badge" alt="HamzaWaseemCS" /></a> </p>
 
-- 🌱 I’m currently learning **Oops in c#, Data Science, Machine Learning,Web-Dev**
+
+- 🌱 I’m currently learning **Oops in c#, Data Science, Machine Learning, Web-Dev, Generative-AI**
 
 - 💬 Ask me about **C++, C#, Html, Css.**
 
