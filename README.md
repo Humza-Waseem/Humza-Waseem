@@ -1,4 +1,4 @@
-![logo](https://github.com/HAMZAWASYM200044/HAMZAwASYM200044/blob/a3b84fafb49fd36991b7594cd3fba0279f073c50/Github%20Banner.jpg)
+![logo](https://github.com/HAMZAWASYM200044/HAMZAwASYM200044/blob/a3b84fafb49fd36991b7594cd3fba0279f073c50/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Hamza Waseem</h1>
 <h3 align="center">A Computer Scientist to be.....</h3>
 
