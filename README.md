@@ -1,7 +1,7 @@
-![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/a3b84fafb49fd36991b7594cd3fba0279f073c50/Github%20Banner.jpeg)
+![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Hamza Waseem</h1>
 <h3 align="center">Undergraduate Student | MLSA @microsoft | Computer Science </h3>
-<img align="center" alt="imageOfCoding" width="600" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
+<img align="center" alt="imageOfCoding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humza-waseem&label=Profile%20views&color=0e75b6&style=flat" alt="humza-waseem" /> </p>
 
