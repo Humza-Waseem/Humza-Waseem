@@ -1,4 +1,4 @@
-![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/main/Github%20Banner.jpeg)
+<!--![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/main/Github%20Banner.jpeg)!-->
 <h1 align="center">Hi 👋, I'm Hamza Waseem</h1>
 <h3 align="center">Undergraduate Student | MLSA @microsoft | Computer Science </h3>
 <img align="center" alt="imageOfCoding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
