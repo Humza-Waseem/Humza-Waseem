@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humza-waseem" alt="humza-waseem" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hamzawaseemcs" target="blank"><img src="https://img.shields.io/twitter/follow/hamzawaseemcs?logo=twitter&style=for-the-badge" alt="hamzawaseemcs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/M_HamzaWaseem" target="blank"><img src="https://img.shields.io/twitter/follow/M_HamzaWaseem?logo=twitter&style=for-the-badge" alt="M_HamzaWaseem" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Web-Dev, Generative-AI ,Data Structures and Algorithms.**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamzawaseemcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzawaseemcs" height="30" width="40" /></a>
+<a href="https://twitter.com/M_HamzaWaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="M_HamzaWaseem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza-waseem-655576247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-waseem-655576247" height="30" width="40" /></a>
 <a href="https://instagram.com/hamzawasym1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzawasym1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hamza waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamza waseem" height="30" width="40" /></a>
