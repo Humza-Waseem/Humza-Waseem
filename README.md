@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, C#, web-development, Python, Data Science, AI.**
 
-- 📫 Reach Me Through : **sheikhhw55@gmail.com** ,**hamza.waseem@studentambassadors.com**
+- 📫 Reach Me Through : **hamza.waseem@studentambassadors.com**
 
 - ⚡ Fun fact **I am really good in video Games and Cricket. Also trying to be good in coding too**
 
