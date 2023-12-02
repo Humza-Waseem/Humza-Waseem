@@ -15,7 +15,7 @@
 
 - 📫 Reach Me Through : **hamza.waseem@studentambassadors.com**
 
-- ⚡ Fun fact **I am really good in video Games and Cricket. Also trying to be good in coding too**
+- ⚡ Fun fact **I am really good in ideo Games and Cricket. Also trying to be good in coding too**
 
 - 🎓 Studying **Bs.Computer Science** from  [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
