@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate Student | Student Ambassador by microsoft | AI Learner | Computer Science </h3>
 
 <p align="center">
-  <img width="500" height="300"  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="imageOfCoding">
+  <img width="350" height="300"  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="imageOfCoding">
 </p>
 
 ---
