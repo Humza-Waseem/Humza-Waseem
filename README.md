@@ -10,13 +10,13 @@
 [![](https://visitcount.itsvg.in/api?id=Humza-Waseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🕴️ About Me:
-- 🌱 I’m currently learning **Data Science, Machine Learning, Web-Dev, Generative-AI , Data Base .**
+- 🌱 I’m currently learning ** Machine Learning, DJANGO, Generative-AI , Data Bases.**
 
-- 💬 Ask me about **C++, C#, web-development, Python, AI.**
+- 💬 Ask me about ** C#, web-development, DJANGO, Python, AI.**
 
 - 📫 Reach Me Through : **hamza.waseem@studentambassadors.com**
 
-- ⚡ Fun fact **I am really good in ideo Games and Cricket. Also trying to be good in coding too**
+- ⚡ Fun fact **I am really good in Video Games and Cricket. Also trying to be good in coding too**
 
 - 🎓 Studying **Bs.Computer Science** from  [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
