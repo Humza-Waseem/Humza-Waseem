@@ -1,5 +1,5 @@
 <!--![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/main/Github%20Banner.jpeg)!-->
-<h1 align="center">Hi 👋, I'm Hamza Waseem</h1>
+<h1 align="center">Hey 👋, I'm Hamza Waseem</h1>
 <h3 align="center">Undergraduate Student | Student Ambassador by microsoft | AI Learner | Computer Science </h3>
 
 <p align="center">
