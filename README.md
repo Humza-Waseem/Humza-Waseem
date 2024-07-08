@@ -10,7 +10,7 @@
 [![](https://visitcount.itsvg.in/api?id=Humza-Waseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🕴️ About Me:
-- 🌱 I’m currently learning <strong> Machine Learning, DJANGO, Generative-AI , Data Bases.</strong>
+- 🌱 I’m currently learning <strong> Machine Learning, DJANGO, Generative-AI.</strong>
 
 - 💬 Ask me about <strong> C#, web-development, DJANGO, Python, AI.</strong>
 
