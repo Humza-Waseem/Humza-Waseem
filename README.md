@@ -2,9 +2,6 @@
 <h1 align="center">Hey 👋, I'm Hamza Waseem</h1>
 <h3 align="center"> Student Ambassador by microsoft | Focusing on AI and ML | Data Analysis & Engineering</h3>
 
-<p align="center">
-  <img width="350" height="300"  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="imageOfCoding">
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Humza-Waseem&icon=0&color=0)](https://visitcount.itsvg.in)
