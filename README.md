@@ -1,6 +1,6 @@
 <!--![logo](https://github.com/Humza-Waseem/Humza-Waseem/blob/main/Github%20Banner.jpeg)!-->
 <h1 align="center">Hey 👋, I'm Hamza Waseem</h1>
-<h3 align="center">Undergraduate Student | Student Ambassador by microsoft | AI Learner | Computer Science </h3>
+<h3 align="center"> Student Ambassador by microsoft | Focusing on AI and ML | Data Analysis & Engineering</h3>
 
 <p align="center">
   <img width="350" height="300"  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="imageOfCoding">
@@ -10,13 +10,13 @@
 [![](https://visitcount.itsvg.in/api?id=Humza-Waseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🕴️ About Me:
-- 🌱 I’m currently learning <strong> Machine Learning, DJANGO, Generative-AI.</strong>
+- 🌱 I’m currently learning <strong> AI ML, Web Development , Data Engineering.</strong>
 
-- 💬 Ask me about <strong> C#, web-development, DJANGO, Python, AI.</strong>
+- 💬 Ask me about <strong> C#, web-development, DJANGO, Python, AI/ML.</strong>
 
 - 📫 Reach Me Through : <strong>hamza.waseem@studentambassadors.com</strong>
 
-- ⚡ Fun fact <strong>I am really good in Video Games and Cricket. Also trying to be good in coding too</strong>
+- ⚡ Fun fact <strong>I am really good in Video Games and Cricket. Also trying to be a better developer too</strong>
 
 - 🎓 Studying <strong>Bs.Computer Science</strong> from  [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
